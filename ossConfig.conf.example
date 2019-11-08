@@ -1,0 +1,5 @@
+[Credentials]
+    language=EN
+    endpoint=env_endpoint
+    accessKeyID=env_access_key
+    accessKeySecret=env_access_key_secret
